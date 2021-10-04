@@ -1,0 +1,15 @@
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ToursApp.csprojAssemblyReference.cache
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ToursApp.AssemblyInfoInputs.cache
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ToursApp.AssemblyInfo.cs
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ToursApp.csproj.CoreCompileInputs.cache
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\bin\Debug\netstandard2.0\ToursApp.deps.json
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\bin\Debug\netstandard2.0\ToursApp.dll
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\bin\Debug\netstandard2.0\ref\ToursApp.dll
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\bin\Debug\netstandard2.0\ToursApp.pdb
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ToursApp.dll
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ref\ToursApp.dll
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\ToursApp.pdb
+C:\Users\23\source\repos\ToursApp\ToursApp\ToursApp\obj\Debug\netstandard2.0\CommentPage.xaml.g.cs
